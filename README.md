@@ -16,7 +16,7 @@ The solution combines **advanced ML models** with a **high-end Streamlit dashboa
 
 🔗 GitHub Repo: [Link](https://github.com/pragya0405/Loan-Risk-Predictor.git)
 
-🌐 Live Demo: Coming Soon
+🌐 Live Demo: [Link](https://loan-risk-predictor-vfyatwjnqtseudthlafzwk.streamlit.app/)
 
 ---
 
